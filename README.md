@@ -3,6 +3,8 @@ MagicCardMarket Client (more like SDK...)
 
 If your editor have autocomplete you can see all options! :D
 
+This is a sugar version! You can use the more raw version with this project : [mkm](https://github.com/ngmachado/mkm)
+
 How to Use
 ```
 go get github.com/ngmachado/mcmarket
