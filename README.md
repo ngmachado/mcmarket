@@ -1,7 +1,7 @@
 # MCMarket
 MagicCardMarket Client (more like SDK...)
 
-If your editor have autocomplete you can see all options! :D
+If your editor have autocomplete you can navigate to see all the options! :D
 
 This is a sugar version! You can use the more raw version with this project : [mkm](https://github.com/ngmachado/mkm)
 
