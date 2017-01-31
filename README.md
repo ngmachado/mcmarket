@@ -11,6 +11,15 @@ go get github.com/ngmachado/mcmarket
 ```
 
 Example : 
+
+Creating a client to make requests. This client will target sandbox server.
+After that we are asking for account information and outputing the result.
+
+If there is a error, we will log and exit.
+
+
+
+
 ```
 func main() {
 	//Use your keys
