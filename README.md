@@ -39,3 +39,6 @@ func main() {
 
 }
 ```
+
+
+To generate the structs i used [json-to-go](https://github.com/mholt/json-to-go).
