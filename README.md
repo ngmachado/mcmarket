@@ -6,7 +6,7 @@ If your editor have autocomplete you can navigate to see all the options! :D
 This is a sugar version! You can use the more raw version with this project : [mkm](https://github.com/ngmachado/mkm)
 
 How to Use
-```
+```go
 go get github.com/ngmachado/mcmarket
 ```
 
@@ -20,7 +20,7 @@ If there is a error, we will log and exit.
 
 
 
-```
+```go
 func main() {
 	//Use your keys
 	myKeys := mkm.Keys{
